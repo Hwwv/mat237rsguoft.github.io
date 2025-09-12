@@ -1,5 +1,5 @@
 # mat237rsguoft.github.io
-This is a record for an RSG(recognized study group) of MAT237Y1 in University of Toronto during 2025-2026 Fall&amp;Winter semester. Here we keep track of our meetings and share thoughts and progress. And maybe, there are some
+This is a record for an RSG(recognized study group) of MAT237Y1 in University of Toronto during 2025-2026 Fall&amp;Winter semester. Here we keep track of our meetings and share thoughts and progress. And maybe, there are some other resources.
 
 MAT237Y1: [Official course introduction][https://artsci.calendar.utoronto.ca/course/mat237y1], a course goes on further to multiple variables based on MAT137Y1, one-variable Calculus.\(TBC\)
 
