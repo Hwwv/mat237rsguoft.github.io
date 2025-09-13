@@ -6,7 +6,7 @@ MAT237Y1: [Official course introduction][https://artsci.calendar.utoronto.ca/cou
 Textbook: Zaman Multivariable Calculus With Proofs[https://www.scribd.com/document/764742587/Zaman-Multivariable-Calculus-With-Proofs]
 
 ## Members
-Until September 11th, we have six members in total:\(TBC\)
+Until September 12th, we have seven members in total:\(TBC\)
 
 How to communicate with each other?
 
@@ -49,7 +49,9 @@ in pairs?/everyone gets chance of sharing one week's most interested thing?
 
 ### Toolkits extablishing\(if interested\)
 - LaTex
+1. latex_reference:[chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://texdoc.org/serve/latex2e.pdf/0]
+2. Learn LaTex in 30 mins: [https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes]
 - Github
-- Website and Markdown
+- Website building and Markdown
 
 
